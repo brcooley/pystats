@@ -6,3 +6,5 @@ you just need the basics, and don't want to rely on something as heavy as numpy.
 should be as simple as `import stats`, and give you access to a number of simple statistical 
 functions.
 
+[np]:http://www.numpy.org/
+[sp]:http://www.scipy.org/
